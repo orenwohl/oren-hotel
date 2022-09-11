@@ -1,4 +1,8 @@
-https://oren-hotel.netlify.app/
+
+
+## Project Demo
+
+[Live Demo](https://oren-hotel.netlify.app/) 
 
 # Getting Started with Create React App
 
